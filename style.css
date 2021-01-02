@@ -1,0 +1,52 @@
+body{
+    padding: 0;
+    margin: 0;   
+}
+p span{
+    color: #007bff;
+}
+#header .container, #phone .container, #laptop .container{
+    margin-bottom: 100px;
+}
+.logo-img img{
+    size: 10px;
+}
+#header .row{
+    padding: 20px 20px;
+}
+
+#header{
+    background-image: url(./images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+
+.btn-style{
+    padding: 10px 15px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.another-color{
+    color: rgb(13 235 201);
+}
+.common-color{
+    color: rgb(255 207 25);
+}
+
+.card{
+    margin:10px 40px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#catagories h3{
+    color: black;
+}
+#catagories .bottom-style{
+    width: 100px;
+    height: 10px;
+    background-color: rgb(247, 73, 73);
+    border-radius: 8px;
+}
